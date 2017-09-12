@@ -158,6 +158,8 @@ public interface StudentArrayOperation {
 	 * @throws IllegalArgumentException
 	 */
 	void removeToIndex(int index);
+	//to remove to index
+	return index;
 
 	
 	/**
