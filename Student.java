@@ -20,6 +20,7 @@ public class Student implements Comparable {
 	 * fullName = "David Luis";
 	 */
 	private String fullName;
+	fullName="David Louis";
 
 	/**
 	 * student date of birth in "yyyy-MM-dd" format
